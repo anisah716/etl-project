@@ -16,3 +16,12 @@ SSH:
 ```
 git@github.com:anisah716/etl-project.git
 ```
+## Built With
+
+* [Python](https://www.python.org)
+* [Jupyter Notebook](https://jupyter.org)
+* [matplotlib](https://matplotlib.org) - Visualizations 
+
+## Authors
+
+* **Anisah Ahmed**  - [Github](https://github.com/anisah716)

@@ -10,9 +10,9 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-https://github.com/anisah716/nyc-gentrification.git
+https://github.com/anisah716/etl-project.git
 ```
 SSH:
 ```
-git@github.com:anisah716/nyc-gentrification.git
+git@github.com:anisah716/etl-project.git
 ```

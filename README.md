@@ -17,7 +17,12 @@ SSH:
 git@github.com:anisah716/etl-project.git
 ```
 
-## Visualizations
+## Regression
+
+
+![Image of Graphs](https://github.com/anisah716/etl-project/blob/master/images/linearregression.png)
+
+## Regression
 
 
 ![Image of Graphs](https://github.com/anisah716/etl-project/blob/master/images/linearregression.png)

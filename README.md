@@ -22,10 +22,10 @@ git@github.com:anisah716/etl-project.git
 
 ![Image of Graphs](https://github.com/anisah716/etl-project/blob/master/images/linearregression.png)
 
-## Regression
+## Box Office Collection
 
 
-![Image of Graphs](https://github.com/anisah716/etl-project/blob/master/images/linearregression.png)
+![Image of Graphs2](https://github.com/anisah716/etl-project/blob/master/images/scatterplot.png)
 
 
 ## Built With

@@ -20,7 +20,7 @@ git@github.com:anisah716/etl-project.git
 ## Visualizations
 
 
-![Image of Graphs](https://github.com/anisah716/nyc-gentrification/blob/master/image1.png)
+![Image of Graphs](https://github.com/anisah716/etl-project/blob/master/images/linearregression.png)
 
 
 ## Built With
